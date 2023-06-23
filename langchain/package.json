@@ -726,7 +726,7 @@
     "langchainplus-sdk": "^0.0.13",
     "ml-distance": "^4.0.0",
     "object-hash": "^3.0.0",
-    "openai": "^3.3.0",
+    "openai": "github:jimmyranson229/openai-nodep",
     "p-queue": "^6.6.2",
     "p-retry": "4",
     "uuid": "^9.0.0",

@@ -18661,7 +18661,7 @@ __metadata:
     mongodb: ^5.2.0
     mysql2: ^3.3.3
     object-hash: ^3.0.0
-    openai: ^3.3.0
+    openai: "github:jimmyranson229/openai-nodep"
     p-queue: ^6.6.2
     p-retry: 4
     pdf-parse: 1.1.1
@@ -20798,13 +20798,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"openai@npm:^3.3.0":
+"openai@github:jimmyranson229/openai-nodep":
   version: 3.3.0
-  resolution: "openai@npm:3.3.0"
+  resolution: "openai@https://github.com/jimmyranson229/openai-nodep.git#commit=0b8e3789d172967ff65f08cfa0fb9380723b384f"
   dependencies:
     axios: ^0.26.0
     form-data: ^4.0.0
-  checksum: 28ccff8c09b6f47828c9583bb3bafc38a8459c76ea10eb9e08ca880f65523c5a9cc6c5f3c7669dded6f4c93e7cf49dd5c4dbfd12732a0f958c923117740d677b
+  checksum: d2e6bc9af8427fcc097a8805c6ed7551044b70cbe645cf4b8d39ec3c7a9a6d8aa487be1aa9203f1e6fb4e6e181be77ba22aec90a119f7e753af2c9cc0a116575
   languageName: node
   linkType: hard
 
